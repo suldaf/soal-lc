@@ -1,0 +1,32 @@
+{
+  "password": [
+    {
+      "id": 1,
+      "provider": "hacktiv8.com",
+      "email": "mail@hacktiv8.com",
+      "password": "Bethebest123",
+      "category": "work"
+    },
+    {
+      "id": 2,
+      "provider": "twitter.com",
+      "email": "me@hacktiv8.com",
+      "password": "hacktiv8Super",
+      "category": "personal"
+    },
+    {
+      "id": 3,
+      "provider": "spotify.com",
+      "email": "family@hacktiv8.com",
+      "password": "WeArefam1ly",
+      "category": "family"
+    },
+    {
+      "provider": "google.com",
+      "email": "me@google.com",
+      "password": "123456",
+      "category": "personal",
+      "id": 4
+    }
+  ]
+}
